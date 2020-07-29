@@ -4,3 +4,40 @@
     margin-left: auto;
     width:50%;
 }
+.jumbotron{
+    text-align:center;
+    background-image:url("https://images.squarespace-cdn.com/content/v1/562e4783e4b04aea224df8f0/1445889395175-K8BAL2YQBYF05QEFQQ22/ke17ZwdGBToddI8pDm48kOxLRGAfd8DHyn-VO-OS79h7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlnKv1yxoTk5msUVUpzS-jwidPkl-46T667XTMzLYTMBnw/serverfood.jpg?format=2500");
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+}
+
+.jumbotron p{
+    background-color: rgb(0,0,0,0.6);
+}
+
+.jumbotron .btn{
+    background-color: #1ab261;
+    border: 2px black;
+}
+input{
+    width: 100%;
+    padding: 6px;
+}
+form{
+    background-color:black;
+    padding: 30px;
+    margin: 30px;
+}
+
+.pics{
+    margin-top: -85px;
+}
+
+.row{
+    margin: 30px;
+}
+
+.body{
+    margin: 15px;
+}
